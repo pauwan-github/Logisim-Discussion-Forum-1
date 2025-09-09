@@ -1,7 +1,7 @@
 # Logisim-Discussion-Forum-1
 **Design and Analysis of a 2-Bit Binary Adder
 Tools Required:**
-+Logisim Software 2.7.2 (logisim-win-2.7.1) https://sourceforge.net/projects/circuit/
+-[]Logisim Software 2.7.2 (logisim-win-2.7.1) https://sourceforge.net/projects/circuit/[x]
 +Java Development Envoronment (jre-8u461-windows-x64) https://sourceforge.net/projects/circuit/
 **Steps to follow**
 +Clone this repository to your desktop.
